@@ -1,9 +1,16 @@
-import styles from '../styles/Home.module.css'
+import styles from '../styles/Home.module.css';
+import {Header} from '../components/index';
+import {Footer} from '../components/index';
+
+
 
 export default function Home() {
   return (
-    <div className="bg-gray-200 h-5">
-       <h1>Consulting App</h1>
+    <div className="flex flex-col min-h-screen ">
+      <Header />
+      
+       <Footer />
     </div>
+      
   )
 }
