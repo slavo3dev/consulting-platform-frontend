@@ -1,7 +1,7 @@
 
-import { FC } from "react"
-import Image from 'next/image'
-import logo from '../../../public/logo192.png'
+import { FC } from "react";
+import Image from 'next/image';
+import logo  from '../../../public/logo192.png';
 import { PopUp } from '../popUp/index';
 
 
