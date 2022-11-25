@@ -2,7 +2,7 @@ import { Header } from "./Header";
 import { Footer } from "./Footer";
 import { Form } from "./MsgForm";
 import { PopUp } from "./popUp";
-import {UserInput} from "./MsgForm"
+import {UserInput} from "./MsgForm";
 
 
 export { Header}
